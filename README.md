@@ -22,7 +22,7 @@ CryptoPulse is a powerful and user-friendly cryptocurrency tracking platform bui
 ### Steps to Install
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/cryptopulse.git
+   git clone https://github.com/M-ZohaibAli/CryptoPulse.git
    cd cryptopulse
    ```
 2. **Install Dependencies**
@@ -57,11 +57,9 @@ CryptoPulse is a powerful and user-friendly cryptocurrency tracking platform bui
 - Bootstrap (for responsive UI)
 - CoinGecko API (for real-time price data)
 
-## License
-CryptoPulse is open-source and available under the [MIT License](LICENSE).
 
 ## Contributing
 We welcome contributions! Feel free to submit issues or pull requests to improve CryptoPulse.
 
 ## Contact
-For any questions or suggestions, reach out at [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, reach out at [ilabiahoz890@gmail.com](mailto:ilabiahoz890@gmail.com).
